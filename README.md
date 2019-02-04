@@ -19,9 +19,9 @@
 
 ### Приложения
 
-- Pleco -- словарь с кучей фич.
-- Trainchinese - TBD
-- ChineseSkill - TBD
+- [Pleco](https://www.pleco.com/) -- словарь с кучей фич.
+- [Trainchinese](http://www.trainchinese.com/v2/index.php?rAp=0&tcLanguage=ru) - TBD
+- [ChineseSkill](http://www.chinese-skill.com/cs.html) - TBD
 
 ### Веб-сервисы
 
